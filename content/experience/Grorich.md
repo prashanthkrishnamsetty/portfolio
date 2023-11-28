@@ -1,11 +1,11 @@
 ---
-title: "Data Analyst"
+title: "Data Engineer II"
 description: "The Hartford"
-dateString: August 2023 - Present
+dateString: APril 2020 - October 2023
 draft: false
 tags: ["Python", "R", "SQL", "Tableau"]
 showToc: false
-weight: 302
+weight: 301
 
 --- 
 
