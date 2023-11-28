@@ -1,6 +1,6 @@
 ---
 title: "Data Engineer II"
-description: "The Hartford"
+description: "Grorich Tentsystems"
 dateString: APril 2020 - October 2023
 draft: false
 tags: ["Python", "R", "SQL", "Tableau"]
