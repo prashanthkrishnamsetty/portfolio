@@ -33,6 +33,7 @@ departmental goals.
 - Designed and generated custom reports and dashboards, enhancing data accessibility for stakeholders.
 - Contributed to process improvement by identifying and addressing data-related inefficiencies, implementing streamlined
 workflows.
+- Cleaned and standardized records, by reducing data entry errors by 40% and enhancing data integrity.
 
 
 <!-- - Conducted in-depth analysis of datasets using Python resulting in a 20% improvement in data quality and accuracy.
