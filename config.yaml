@@ -49,8 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Prashanth Krishnamsetty"
-    subtitle: Hey there! Over the three years, I've been working with lots of data, figuring out the important stuff in it. I use tools like Tableau, Power BI, and SQL to make the data easier to understand. I've made reports and charts that show what's happening in a simple way, helping people make better choices using the data. But it's not just about me and numbers—I've also been part of teams. We've used the data together to make things work better for everyone. I like solving data problems and making things run smoothly. My goal is to make data helpful for planning and making things go smoothly!
-    imageUrl: "/home/kp.png"
+    subtitle: Hey there! 
     imageWidth: 350
     imageHeight: 300
     buttons:
