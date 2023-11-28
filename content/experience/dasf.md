@@ -1,7 +1,7 @@
 ---
-title: "Data Analyst"
-description: "Sundaram Finance"
-dateString: Jan 2019 - Nov 2021
+title: "Research Assistant "
+description: "Northeastern University,Boston "
+dateString: Apr 2022 - Nov 2022
 draft: false
 tags: [Python, SQL, ETL, Talend, Google BigQuery,PostgreSQL, MongoDB, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI]
 showToc: false
