@@ -10,30 +10,17 @@ weight: 301
 --- 
 
 ## Description
-
-- Proficiently sourced and extracted data from diverse channels such as databases, APIs, and spreadsheets to facilitate thorough analysis.
-- Conducted comprehensive statistical analyses to pinpoint trends, anomalies, and critical insights, empowering data-driven decision-making processes.
-- Oversaw the management and upkeep of extensive datasets, ensuring their integrity, quality, and accessibility for analytical purposes.
-- Crafted compelling data visualizations using tools like Tableau or Power BI, presenting findings in a visually appealing and comprehensible manner.
-- Developed predictive models to forecast future trends, bolstering business strategies and planning efforts.
-- Scripted data collection and transformation processes for an Integrated Data Warehouse, including the creation of Pricing
-and what-if Analysis.
-- Enhanced performance by modifying existing Procedures, Functions, Views, and Packages using PL/SQL.
-- Designed and delivered engaging PowerPoint and Mood Media presentations, as well as company-wide email
-correspondence.
-- Executed comprehensive data gathering, analysis, and interpretation of complex business data.
-- Produced detailed reports and dashboards to identify potential areas for improvement.
-- Formulated data models to measure trends and forecast future data scenarios.
-- Identified improvement opportunities and presented viable solutions to stakeholders.
-- Generated visualizations and reports to present data in an easily understandable format.
-- Delivered data reports to senior management, providing valuable insights.
-- Implemented data cleaning and transformation processes to eliminate errors and enhance data reliability.
-- Collaborated with various departments to understand their data needs, offering analytical support to achieve
-departmental goals.
-- Designed and generated custom reports and dashboards, enhancing data accessibility for stakeholders.
-- Contributed to process improvement by identifying and addressing data-related inefficiencies, implementing streamlined
-workflows.
-- Cleaned and standardized records, by reducing data entry errors by 40% and enhancing data integrity.
+- Successfully gathered and extracted data from various sources like databases, APIs, and spreadsheets, ensuring a streamlined approach for analysis and implemented efficient data storage strategies on Amazon S3, optimizing file formats and partitioning for enhanced query performance, reducing data retrieval times by 25%.
+- Engineered end-to-end ETL workflows using AWS Glue, automating data extraction, transformation, and loading processes, resulting in a 20% reduction in ETL development time.
+- Orchestrated and managed large-scale data processing tasks using Amazon EMR, leveraging distributed computing frameworks like Apache Spark to process petabytes of data, resulting in a 30% reduction in processing time.
+- Designed and maintained data warehouses on Amazon Redshift, optimizing schema design and query performance, leading to a 25% improvement in analytical processing speed.
+- Streamlined data workflows by orchestrating and automating intricate processes with Apache Airflow, resulting in a notable 30% improvement in task efficiency and implemented DAG’s (directed acyclic graphs) for seamless management of dependencies, contributing to a 25% reduction in data processing errors.
+- Implemented Terraform to define and manage infrastructure configurations as code, resulting in a 20% reduction in deployment inconsistencies and ensuring a reproducible environment across diverse settings.
+- Administered and optimized relational databases using Amazon RDS, enhancing database performance, and ensuring seamless integration with data processing workflows and implemented real-time data streaming and processing using Amazon Kinesis, enabling immediate insights into data changes, and facilitating dynamic adjustments in response to evolving business needs.
+- Developed and deployed PySpark applications on Amazon EMR, harnessing the capabilities of distributed computing for large-scale data processing and analysis.
+- Designed and enforced referential integrity in the data engineering project by implementing foreign key constraints and defining relationships between key tables. This included incorporating checks during ETL processes to ensure that data adhered to established relationships, minimizing data inconsistencies.
+- Implemented automated data validation checks within the data engineering pipeline, encompassing constraints for uniqueness, data types, and cardinality. Real-time monitoring and alerting were integrated to promptly identify and address data quality issues, thereby enhancing the overall reliability and accuracy of the data.
+- Demonstrated proficiency in Airflow to create flexible and scalable ETL pipelines, leading to a 20% optimization in both scheduling and execution of data processing jobs
 
 
 <!-- - Conducted in-depth analysis of datasets using Python resulting in a 20% improvement in data quality and accuracy.

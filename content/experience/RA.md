@@ -10,15 +10,12 @@ weight: 302
 
 ### Description
 
+ 
+- Collaborated with Finance Professor to design, develop, and implement azure-based data pipelines that supported the acquisition, preprocessing, and analysis of financial data and utilized azure data factory to create automated ETL workflows, enabling the seamless integration of financial data from diverse sources, such as market feeds, trading platforms, and economic indicators.
+- Engineered data transformation processes using Azure Databricks and SQL to cleanse, transform, and enrich raw financial data, ensuring accuracy and consistency for quantitative analyses.
 - Developed comprehensive work plans, adeptly managing deadlines and orchestrating project teams and sub-teams to ensure the successful completion of data projects.
 - Played a pivotal role in the project cycle plan for the data warehouse, encompassing source data analysis, data extraction, transformation, and the design of ETL loading strategies.
 - Produced detailed mapping spreadsheets for the ETL team, streamlining data transformation through the provision of source-to-target mapping, naming standards, data types, volumetric information, domain definitions, transformation rules, and corporate metadata definitions.
-- Designed and implemented a business application automating the calculation and distribution of sales commissions to the HR and finance departments, significantly enhancing efficiency and accuracy.
-- Developed dynamic business solutions and dashboards using Excel Power Pivot, DAX, and Power Query, facilitating data- driven decision-making and reporting.
-- Conducted in-depth data analysis, drawing conclusions, and formulating recommendations, utilizing SQL scripts for data manipulation during loads and extracts to improve data quality and accuracy.
-- Specialized in data mining, transformation, and loading from source systems to target systems, ensuring seamless data integration aligned with business needs.
-- Collaborated seamlessly with cross-functional teams, aligning data projects with organizational goals and priorities.
-- Demonstrated robust problem-solving skills by identifying data-related issues, devising effective solutions, and ensuring data quality and integrity.
 
 <!-- - Developed and maintained data pipelines, ensuring the seamless flow of data from source systems to data warehouses for analysis and reporting.
 - Implemented ETL processes to clean, transform, and load large datasets, enhancing data quality and making it ready for analysis.
