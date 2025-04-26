@@ -1,7 +1,7 @@
 ---
 title: "Data Engineer"
 description: "St John's University"
-dateString: January 2019 - July 2019
+dateString: January 2024 - July 2024
 draft: false
 tags: [Python, SQL, ETL, Talend, Google BigQuery,PostgreSQL, MongoDB, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI]
 showToc: false
