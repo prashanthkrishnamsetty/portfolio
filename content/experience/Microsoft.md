@@ -1,7 +1,7 @@
 ---
-title: "Data Science Intern"
-description: "Avani Meadows"
-dateString: January 2019 - July 2019
+title: "Software Engineering"
+description: "Microsoft"
+dateString: August 2024 - January 2025
 draft: false
 tags: [Python, SQL, ETL, Talend, Google BigQuery,PostgreSQL, MongoDB, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI]
 showToc: false

@@ -1,7 +1,7 @@
 ---
-title: "Data Engineer II"
+title: "Data Engineer "
 description: "Grorich Tentsystems"
-dateString: April 2020 - October 2023
+dateString: April 2020 - December 2021
 draft: false
 tags: ["Python", "R", "SQL", "Tableau"]
 showToc: false
