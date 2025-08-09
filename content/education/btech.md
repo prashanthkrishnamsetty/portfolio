@@ -1,7 +1,7 @@
 ---
 title: "B.Tech in Computer Science & Engineering"
 description: "JNTU Anantapur"
-dateString: August 2016 - April 2020
+dateString: August 2018 - April 2018
 draft: false
 tags: []
 showToc: false
